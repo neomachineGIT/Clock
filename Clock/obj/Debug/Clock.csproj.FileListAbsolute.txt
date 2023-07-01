@@ -1,0 +1,16 @@
+C:\Users\NeoMachine\source\repos\Clock\Clock\bin\Debug\Clock.exe.config
+C:\Users\NeoMachine\source\repos\Clock\Clock\bin\Debug\Clock.exe
+C:\Users\NeoMachine\source\repos\Clock\Clock\bin\Debug\Clock.pdb
+C:\Users\NeoMachine\source\repos\Clock\Clock\obj\Debug\Clock.csproj.AssemblyReference.cache
+C:\Users\NeoMachine\source\repos\Clock\Clock\obj\Debug\Clock.csproj.SuggestedBindingRedirects.cache
+C:\Users\NeoMachine\source\repos\Clock\Clock\obj\Debug\Clock.csproj.CoreCompileInputs.cache
+C:\Users\NeoMachine\source\repos\Clock\Clock\obj\Debug\Clock.exe
+C:\Users\NeoMachine\source\repos\Clock\Clock\obj\Debug\Clock.pdb
+C:\Users\quier\OneDrive\Documentos\repos-\repos\Clock\Clock\bin\Debug\Clock.exe.config
+C:\Users\quier\OneDrive\Documentos\repos-\repos\Clock\Clock\bin\Debug\Clock.exe
+C:\Users\quier\OneDrive\Documentos\repos-\repos\Clock\Clock\bin\Debug\Clock.pdb
+C:\Users\quier\OneDrive\Documentos\repos-\repos\Clock\Clock\obj\Debug\Clock.csproj.AssemblyReference.cache
+C:\Users\quier\OneDrive\Documentos\repos-\repos\Clock\Clock\obj\Debug\Clock.csproj.SuggestedBindingRedirects.cache
+C:\Users\quier\OneDrive\Documentos\repos-\repos\Clock\Clock\obj\Debug\Clock.csproj.CoreCompileInputs.cache
+C:\Users\quier\OneDrive\Documentos\repos-\repos\Clock\Clock\obj\Debug\Clock.exe
+C:\Users\quier\OneDrive\Documentos\repos-\repos\Clock\Clock\obj\Debug\Clock.pdb
